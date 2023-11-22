@@ -10,28 +10,28 @@
 
 - Rencontre avec le client pour avoir des éléments comme : 
 
- - Les besoins client et les objectifs du projet, 
+     Les besoins client et les objectifs du projet, 
 
- - Le public cible, 
+     Le public cible, 
 
- - Les exigences spécifiques, 
+     Les exigences spécifiques, 
 
- - Les documents fournis par le client (Maquette etc.) 
+     Les documents fournis par le client (Maquette etc.) 
  
 
 - Estimation du temps et des ressources nécessaires : 
 
- - Tout en évaluant le temps nécessaire pour compléter le projet, il faudra identifier les compétences techniques nécessaires 
+    Tout en évaluant le temps nécessaire pour compléter le projet, il faudra identifier les compétences techniques nécessaires 
 
 - Définition des livrables et planification du projet :  
 
- - Il s’agira ici d’élaborer une liste des livrables attendus à chaque étape du projet, établir un plan de projet en identifiant les jalons et les délais. 
+    Il s’agira ici d’élaborer une liste des livrables attendus à chaque étape du projet, établir un plan de projet en identifiant les jalons et les délais. 
 
 - Mise en place d’une documentation utilisateur et technique du projet 
 
 - Communication continue :  
 
- - Il faudra mettre en place un système de communication avec le client ainsi qu'avec ses collaborateurs. 
+     Il faudra mettre en place un système de communication avec le client ainsi qu'avec ses collaborateurs. 
 
 ## Démarche de développement  
 
@@ -42,6 +42,8 @@
 - Concevoir une architecture du système : Choisir une architecture serveless ou monolithique en fonction des exigences du projet. 
 
 - Choisir sa base de données 
+
+- Concevoir un diagramme de classe UML
 
 - Sécuriser l’application : Implémenter des mesures de sécurité comme l’authentification, l’autorisation, le chiffrement des données et la protection contre les attaques. 
 
